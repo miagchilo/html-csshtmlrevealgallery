@@ -49,49 +49,49 @@ h1 {
 
 .img-1 {
 	transform: scale(1);
-	background: url(/images/poster.png) 50% 50% no-repeat;
+	background: url(C:\Users\Stas\Desktop\cv\gallery\images\1.png) 50% 50% ;
 	background-size: cover;
 }
 
 .img-2 {
 	transform: scale(1.4);
-	background: url(/images/poster1.png) 50% 50% no-repeat;
+	background: url(/images/2.png) 50% 50% ;
 	background-size: cover;
 }
 
 .img-3 {
 	transform: scale(1.2);
-	background: url(/images/poster1.jpg) 50% 50% no-repeat;
+	background: url(/images/3.jpg) 50% 50% ;
 	background-size: cover;
 }
 
 .img-4 {
 	transform: scale(0.9);
-	background: url(/images/poster12.png) 50% 50% no-repeat;
+	background: url(/images/4.png) 50% 50% ;
 	background-size: cover;
 }
 
 .img-5 {
 	transform: scale(1.2);
-	background: url(/images/poster.png) 50% 50% no-repeat;
+	background: url(/images/5.png) 50% 50% ;
 	background-size: cover;
 }
 
 .img-6 {
 	transform: scale(1);
-	background: url(/images/poster1.png) 50% 50% no-repeat;
+	background: url(/images/6.png) 50% 50% t;
 	background-size: cover;
 }
 
 .img-7 {
 	transform: scale(1.1);
-	background: url(/images/poster12.png) 50% 50% no-repeat;
+	background: url(/images/7.png) 50% 50% ;
 	background-size: cover;
 }
 
 .img-8 {
 	transform: scale(0.9);
-	background: url(/images/poster.png) 50% 50% no-repeat;
+	background: url(/images/8.png) 50% 50% ;
 	background-size: cover;
 }
 
